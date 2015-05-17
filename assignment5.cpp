@@ -1,4 +1,15 @@
-#include <iostream>
+/*
+ *  Question5.cpp
+ *
+ *  Name:           [ LEGBA NKANU ]
+ *  Department:     [ COMPUTER SCIENCE ]
+ *  Matric. No:     [ PDS/2013/5122]
+ *
+ *  Program that calculates the squares and cubes of the integers from 0 to 10
+ *
+ */
+ 
+ #include <iostream>
 using std::cin;
 using std::cout;
 using std::endl;

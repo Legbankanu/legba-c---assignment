@@ -1,4 +1,16 @@
-#include <iostream>
+/*
+ *  Question2.cpp
+ *
+ *  Name:           [ LEGBA NKANU]
+ *  Department:     [ COMPUTER SCIENCE]
+ *  Matric. No:     [ PDS/2013/5122]
+ *
+ *  Program that reads two integers and determines
+ *  if first is a multiple of second
+ *
+ */
+ 
+ #include <iostream>
 using std::cin;
 using std::cout;
 using std::endl;

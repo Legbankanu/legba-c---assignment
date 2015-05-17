@@ -1,4 +1,15 @@
-#include <iostream>
+/*
+ *  Question3.cpp
+ *
+ *  Name:           [ LEGBA NKANU]
+ *  Department:     [ COMPUTER SCIENCE ]
+ *  Matric. No:     [ PDS/2013/5122]
+ *
+ *  Program that prints a box, an oval, an arrow and a diamond
+ *
+ */
+ 
+ #include <iostream>
 using namespace std;
 
 int main()

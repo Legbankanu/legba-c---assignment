@@ -1,4 +1,16 @@
-#include <iostream>
+/*
+ *  Question6.cpp
+ *
+ *  Name:           [ LEGBA NKANU ]
+ *  Department:     [ COMPUTER SCIENCE ]
+ *  Matric. No:     [ PDS/2013/5122 ]
+ *
+ *  Body Mass Index (BMI) calculator application that reads
+ *  the user’s weight in kilograms and height in meters,
+ *  calculates and display the user’s body mass index
+ */
+ 
+ #include <iostream>
 #include <iomanip>
 #include <cmath>
 
